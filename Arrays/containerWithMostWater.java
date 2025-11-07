@@ -2,7 +2,7 @@
 // Language: Java
 // Problem: 11. Container With Most Water
 // Topic: Arrays / Two Pointers
-// Date: 5 Nov 2025
+// Date: 7 Nov 2025
 
 class Solution {
     public int maxArea(int[] height) {
