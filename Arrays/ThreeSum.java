@@ -3,7 +3,7 @@
 // Language: Java
 // Topic: Array, Two Pointers, Sorting
 // Date: 9 Nov 2025
-
+import java.util.*;
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums); // Step 1: sort array
